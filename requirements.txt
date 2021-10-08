@@ -1,0 +1,8 @@
+allure-pytest==2.9.43
+allure-python-commons==2.9.43
+pytest~=6.2.5
+pytest-xdist==2.2.1
+selenium==3.141.0
+DateTime~=4.3
+Pillow~=8.1.0
+Selenium-Screenshot==1.7.0
